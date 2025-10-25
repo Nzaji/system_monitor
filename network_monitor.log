@@ -1,0 +1,517 @@
+2025-03-25 20:51:35,371 - INFO - Démarrage du client de monitoring réseau
+2025-03-25 20:51:40,382 - INFO - Prédiction reçue: None
+2025-03-25 20:53:44,851 - INFO - Démarrage du client de monitoring réseau
+2025-03-25 20:53:48,329 - INFO - Prédiction reçue: None
+2025-03-25 20:54:11,692 - INFO - Prédiction reçue: None
+2025-03-25 20:54:35,048 - INFO - Prédiction reçue: None
+2025-03-26 15:24:52,606 - INFO - Démarrage du client de monitoring réseau
+2025-03-26 15:24:57,089 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:25:20,686 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:25:44,104 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:26:07,518 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:26:30,967 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:26:54,674 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:27:18,200 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:27:41,572 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:28:04,890 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:28:28,364 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:28:51,803 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:29:15,235 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:29:38,684 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:30:02,006 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:30:25,473 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:30:48,956 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:31:12,351 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:31:35,718 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:31:59,024 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:32:22,397 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:32:45,731 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:33:09,456 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:33:32,858 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:33:56,218 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:34:20,019 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:34:43,409 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:35:06,771 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:35:30,153 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:35:53,546 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:36:16,946 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:36:40,510 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:37:03,896 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:37:27,295 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:37:50,813 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:38:14,548 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:38:37,978 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:39:01,511 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:39:24,903 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:39:48,255 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:40:11,676 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:40:35,062 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:40:58,501 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:41:21,822 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:41:44,953 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:42:09,292 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:42:33,124 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:42:56,493 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:43:19,896 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:43:43,493 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:44:06,941 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:44:30,289 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:44:53,663 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:45:17,083 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:45:40,490 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:46:03,883 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:46:27,254 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:46:50,671 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:47:14,029 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:47:37,420 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:48:00,580 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:48:23,730 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:48:46,865 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:49:10,001 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:49:33,120 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:49:57,317 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:50:20,826 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:50:44,535 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:51:07,940 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:51:32,073 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:51:55,616 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:52:19,643 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:52:43,141 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:53:06,539 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:53:29,922 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:53:53,369 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:54:16,806 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:54:40,224 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:55:03,619 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:55:27,045 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:55:50,494 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:56:13,865 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:56:37,501 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:57:00,838 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:57:24,268 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:57:47,721 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:58:11,149 - ERROR - Erreur envoi serveur: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:58:36,771 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000217CFFB1EA0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 15:59:01,299 - INFO - Démarrage du client de monitoring réseau
+2025-03-26 15:59:02,086 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000217CFEC23E0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 15:59:27,577 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000217CFFB3A90>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 15:59:53,065 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000217CFFB3F70>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:00:18,479 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000217CFEC1F90>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:00:27,448 - INFO - Démarrage du client de monitoring réseau
+2025-03-26 16:00:32,897 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000290FE871BD0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:00:44,047 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000217CFFB2A40>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:02:25,253 - INFO - Démarrage du client de monitoring réseau
+2025-03-26 16:02:28,669 - INFO - Prédiction reçue: None
+2025-03-26 16:02:52,063 - INFO - Prédiction reçue: None
+2025-03-26 16:03:15,597 - INFO - Prédiction reçue: None
+2025-03-26 16:03:38,963 - INFO - Prédiction reçue: None
+2025-03-26 16:04:03,130 - INFO - Prédiction reçue: None
+2025-03-26 16:04:26,597 - INFO - Prédiction reçue: None
+2025-03-26 16:04:49,909 - INFO - Prédiction reçue: None
+2025-03-26 16:05:13,283 - INFO - Prédiction reçue: None
+2025-03-26 16:05:36,689 - INFO - Prédiction reçue: None
+2025-03-26 16:06:00,141 - INFO - Prédiction reçue: None
+2025-03-26 16:06:23,429 - INFO - Prédiction reçue: None
+2025-03-26 16:06:46,850 - INFO - Prédiction reçue: None
+2025-03-26 16:07:11,379 - INFO - Prédiction reçue: None
+2025-03-26 16:07:34,812 - INFO - Prédiction reçue: None
+2025-03-26 16:07:58,326 - INFO - Prédiction reçue: None
+2025-03-26 16:08:21,751 - INFO - Prédiction reçue: None
+2025-03-26 16:08:45,177 - INFO - Prédiction reçue: None
+2025-03-26 16:09:08,550 - INFO - Prédiction reçue: None
+2025-03-26 16:09:31,963 - INFO - Prédiction reçue: None
+2025-03-26 16:09:55,354 - INFO - Prédiction reçue: None
+2025-03-26 16:10:18,729 - INFO - Prédiction reçue: None
+2025-03-26 16:10:42,094 - INFO - Prédiction reçue: None
+2025-03-26 16:11:05,532 - INFO - Prédiction reçue: None
+2025-03-26 16:11:31,076 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF4035E0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:11:56,581 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF401DB0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:12:21,929 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF51CAF0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:12:47,337 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF402020>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:13:13,982 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF4023B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:13:39,469 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF51EE90>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:14:05,658 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF403C70>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:14:31,105 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF401B10>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:14:56,532 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF51C820>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:15:21,928 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF402E90>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 16:15:47,427 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3FF402FE0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 17:43:48,878 - INFO - Démarrage du client de monitoring réseau
+2025-03-26 17:43:51,840 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:43:52,108 - INFO - Données collectées: {'cpu_usage': 73.9, 'ram_usage': 91.1, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:43:52.108146'}
+2025-03-26 17:43:54,739 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:44:16,316 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:44:16,332 - INFO - Données collectées: {'cpu_usage': 34.8, 'ram_usage': 90.6, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:44:16.332257'}
+2025-03-26 17:44:18,359 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:44:40,481 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:44:40,481 - INFO - Données collectées: {'cpu_usage': 71.5, 'ram_usage': 92.0, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:44:40.481487'}
+2025-03-26 17:44:42,530 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:45:03,853 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:45:03,853 - INFO - Données collectées: {'cpu_usage': 55.8, 'ram_usage': 91.4, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:45:03.853700'}
+2025-03-26 17:45:05,915 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:45:27,243 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:45:27,243 - INFO - Données collectées: {'cpu_usage': 23.8, 'ram_usage': 91.2, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:45:27.243312'}
+2025-03-26 17:45:29,287 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:45:50,613 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:45:50,613 - INFO - Données collectées: {'cpu_usage': 14.0, 'ram_usage': 91.0, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:45:50.613492'}
+2025-03-26 17:45:52,657 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:46:14,458 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:46:14,458 - INFO - Données collectées: {'cpu_usage': 91.7, 'ram_usage': 90.9, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:46:14.458088'}
+2025-03-26 17:46:16,494 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:46:38,018 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:46:38,026 - INFO - Données collectées: {'cpu_usage': 22.5, 'ram_usage': 90.4, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:46:38.026491'}
+2025-03-26 17:46:40,042 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:47:01,557 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:47:01,557 - INFO - Données collectées: {'cpu_usage': 18.2, 'ram_usage': 90.8, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:47:01.557094'}
+2025-03-26 17:47:03,611 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:47:25,019 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:47:25,019 - INFO - Données collectées: {'cpu_usage': 3.1, 'ram_usage': 90.9, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:47:25.019551'}
+2025-03-26 17:47:27,096 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:47:48,459 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:47:48,459 - INFO - Données collectées: {'cpu_usage': 4.6, 'ram_usage': 90.4, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:47:48.459931'}
+2025-03-26 17:47:50,530 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:48:11,848 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:48:11,848 - INFO - Données collectées: {'cpu_usage': 6.2, 'ram_usage': 90.5, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:48:11.848343'}
+2025-03-26 17:48:13,888 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:48:35,234 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:48:35,234 - INFO - Données collectées: {'cpu_usage': 4.7, 'ram_usage': 90.5, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:48:35.234426'}
+2025-03-26 17:48:37,311 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:48:58,657 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:48:58,657 - INFO - Données collectées: {'cpu_usage': 4.7, 'ram_usage': 90.3, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:48:58.657020'}
+2025-03-26 17:49:00,686 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:49:22,003 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:49:22,003 - INFO - Données collectées: {'cpu_usage': 9.2, 'ram_usage': 90.6, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:49:22.003576'}
+2025-03-26 17:49:24,043 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:49:45,430 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:49:45,430 - INFO - Données collectées: {'cpu_usage': 12.1, 'ram_usage': 90.4, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:49:45.430431'}
+2025-03-26 17:49:47,506 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:50:09,139 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:50:09,153 - INFO - Données collectées: {'cpu_usage': 95.4, 'ram_usage': 91.1, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:50:09.153446'}
+2025-03-26 17:50:11,204 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:50:32,614 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:50:32,614 - INFO - Données collectées: {'cpu_usage': 41.9, 'ram_usage': 90.9, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:50:32.614549'}
+2025-03-26 17:50:34,663 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:50:56,024 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:50:56,024 - INFO - Données collectées: {'cpu_usage': 14.6, 'ram_usage': 91.0, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:50:56.024226'}
+2025-03-26 17:50:58,108 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:51:19,594 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:51:19,594 - INFO - Données collectées: {'cpu_usage': 12.4, 'ram_usage': 90.9, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:51:19.594454'}
+2025-03-26 17:51:21,683 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:51:43,078 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:51:43,078 - INFO - Données collectées: {'cpu_usage': 28.7, 'ram_usage': 89.2, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:51:43.078531'}
+2025-03-26 17:51:45,148 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:52:06,645 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:52:06,645 - INFO - Données collectées: {'cpu_usage': 13.7, 'ram_usage': 89.3, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:52:06.645102'}
+2025-03-26 17:52:08,733 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:52:30,355 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:52:30,355 - INFO - Données collectées: {'cpu_usage': 27.8, 'ram_usage': 89.4, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:52:30.355251'}
+2025-03-26 17:52:32,422 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:52:53,849 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:52:53,849 - INFO - Données collectées: {'cpu_usage': 30.8, 'ram_usage': 90.0, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:52:53.849418'}
+2025-03-26 17:52:55,905 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:53:17,329 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:53:17,329 - INFO - Données collectées: {'cpu_usage': 9.2, 'ram_usage': 90.0, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:53:17.329984'}
+2025-03-26 17:53:19,382 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:53:40,760 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:53:40,760 - INFO - Données collectées: {'cpu_usage': 16.0, 'ram_usage': 89.9, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:53:40.760315'}
+2025-03-26 17:53:42,812 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:54:04,177 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:54:04,177 - INFO - Données collectées: {'cpu_usage': 48.1, 'ram_usage': 89.8, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 105, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:54:04.177925'}
+2025-03-26 17:54:06,237 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:54:27,646 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:54:27,646 - INFO - Données collectées: {'cpu_usage': 8.6, 'ram_usage': 89.7, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:54:27.646866'}
+2025-03-26 17:54:29,752 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:54:51,127 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:54:51,127 - INFO - Données collectées: {'cpu_usage': 14.5, 'ram_usage': 89.6, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:54:51.127802'}
+2025-03-26 17:54:53,206 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:55:14,501 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:55:14,501 - INFO - Données collectées: {'cpu_usage': 3.9, 'ram_usage': 89.6, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:55:14.501315'}
+2025-03-26 17:55:16,540 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:55:37,934 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:55:37,934 - INFO - Données collectées: {'cpu_usage': 13.1, 'ram_usage': 89.5, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:55:37.934382'}
+2025-03-26 17:55:39,996 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:56:01,379 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:56:01,379 - INFO - Données collectées: {'cpu_usage': 11.7, 'ram_usage': 88.1, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:56:01.379403'}
+2025-03-26 17:56:03,435 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:56:24,798 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:56:24,798 - INFO - Données collectées: {'cpu_usage': 4.6, 'ram_usage': 88.3, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:56:24.798436'}
+2025-03-26 17:56:26,870 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:56:48,257 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:56:48,257 - INFO - Données collectées: {'cpu_usage': 7.8, 'ram_usage': 84.9, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:56:48.257032'}
+2025-03-26 17:56:50,312 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:57:11,833 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:57:11,841 - INFO - Données collectées: {'cpu_usage': 2.3, 'ram_usage': 85.3, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:57:11.841211'}
+2025-03-26 17:57:13,879 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:57:35,205 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:57:35,205 - INFO - Données collectées: {'cpu_usage': 7.0, 'ram_usage': 85.3, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:57:35.205818'}
+2025-03-26 17:57:37,276 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:57:58,680 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:57:58,680 - INFO - Données collectées: {'cpu_usage': 3.9, 'ram_usage': 85.2, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:57:58.680635'}
+2025-03-26 17:58:00,736 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:58:22,114 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:58:22,114 - INFO - Données collectées: {'cpu_usage': 11.5, 'ram_usage': 85.2, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:58:22.114537'}
+2025-03-26 17:58:24,185 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:58:45,565 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:58:45,565 - INFO - Données collectées: {'cpu_usage': 4.7, 'ram_usage': 85.2, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:58:45.565048'}
+2025-03-26 17:58:47,610 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:59:08,987 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:59:08,987 - INFO - Données collectées: {'cpu_usage': 3.8, 'ram_usage': 85.3, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:59:08.987862'}
+2025-03-26 17:59:11,042 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:59:32,416 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 17:59:32,423 - INFO - Données collectées: {'cpu_usage': 11.7, 'ram_usage': 83.0, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:59:32.423095'}
+2025-03-26 17:59:34,448 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 17:59:55,857 - INFO - Données collectées: {'cpu_usage': 18.6, 'ram_usage': 83.1, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T17:59:55.857875'}
+2025-03-26 17:59:57,936 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 18:00:19,042 - INFO - Données collectées: {'cpu_usage': 6.2, 'ram_usage': 83.4, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T18:00:19.042125'}
+2025-03-26 18:00:21,098 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 18:00:42,459 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 18:00:42,459 - INFO - Données collectées: {'cpu_usage': 24.2, 'ram_usage': 83.8, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T18:00:42.459418'}
+2025-03-26 18:00:44,502 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 18:01:05,889 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 18:01:05,889 - INFO - Données collectées: {'cpu_usage': 5.5, 'ram_usage': 83.7, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T18:01:05.889953'}
+2025-03-26 18:01:07,943 - ERROR - Erreur serveur: 500 - {
+  "error": "'numpy.ndarray' object has no attribute 'transform'"
+}
+
+2025-03-26 18:01:29,560 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 18:01:29,560 - INFO - Données collectées: {'cpu_usage': 45.1, 'ram_usage': 86.3, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T18:01:29.560783'}
+2025-03-26 18:01:33,625 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000249BC9772E0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:01:55,039 - ERROR - Erreur collecte SMART: from_bytes() missing required argument 'byteorder' (pos 2)
+2025-03-26 18:01:55,039 - INFO - Données collectées: {'cpu_usage': 84.5, 'ram_usage': 83.9, 'disk_usage': 77.1, 'temperature': 0, 'read_errors': 0, 'write_errors': 0, 'reallocated_sectors': 0, 'event_id': 16, 'level': 'Information', 'hostname': 'IR-FIRMIN', 'ip_address': '192.168.1.1', 'timestamp': '2025-03-26T18:01:55.039269'}
+2025-03-26 18:02:17,028 - INFO - Démarrage du client de monitoring réseau
+2025-03-26 18:02:20,412 - INFO - Prédiction reçue: None
+2025-03-26 18:02:43,938 - INFO - Prédiction reçue: None
+2025-03-26 18:03:07,451 - INFO - Prédiction reçue: None
+2025-03-26 18:03:30,843 - INFO - Prédiction reçue: None
+2025-03-26 18:03:54,341 - INFO - Prédiction reçue: None
+2025-03-26 18:04:17,848 - INFO - Prédiction reçue: None
+2025-03-26 18:04:41,234 - INFO - Prédiction reçue: None
+2025-03-26 18:05:14,656 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:05:48,059 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:06:21,485 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:06:54,811 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:07:28,251 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:08:01,609 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:08:35,535 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:09:09,035 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:09:42,406 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:10:15,826 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:10:49,263 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:11:22,649 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:11:56,099 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:12:29,459 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:13:02,897 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:13:36,250 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Read timed out. (read timeout=10)
+2025-03-26 18:14:01,659 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762E90>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:14:27,063 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AF340>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:14:52,623 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8ACD00>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:15:18,052 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762AD0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:15:43,500 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8ACC70>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:16:09,072 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AEA10>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:16:34,623 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AE590>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:17:00,060 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA7624A0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:17:25,561 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA761D20>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:17:57,308 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA7631F0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:18:23,430 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AF2B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:18:49,017 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8DD960>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:19:14,517 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762C80>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:19:39,912 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA7627D0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:20:05,245 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AF6A0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:20:30,573 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762410>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:20:56,090 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA7621A0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:21:21,512 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AD390>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:21:46,991 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763EE0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:22:12,347 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA7634C0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:22:37,768 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AECB0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:23:03,124 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763A30>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:23:28,524 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA761AE0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:23:53,941 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AD060>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:24:19,312 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763DC0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:24:44,776 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763070>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:25:10,235 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AF5B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:25:35,694 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762380>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:26:01,038 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763250>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:26:26,506 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AFFD0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:26:52,036 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AC940>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:27:17,463 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA7616C0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:27:42,898 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763070>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:28:08,340 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762FE0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:28:33,854 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AF340>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:28:59,323 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AD870>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:29:24,721 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AC9D0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:29:50,151 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763070>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:30:15,649 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA761BA0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:30:41,013 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762080>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:31:06,426 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AFDF0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:31:31,940 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8ADD20>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:31:57,340 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AF970>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:32:22,878 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762470>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:32:48,315 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8DD720>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:33:13,725 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763070>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:33:39,156 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AF550>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:34:04,746 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8DDF60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:34:30,067 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762290>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:34:55,461 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762F20>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:35:28,566 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AE6B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:35:53,986 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763D30>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:36:19,401 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA7635B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:36:44,818 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8AF9A0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:37:10,216 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA762290>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:37:35,737 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763880>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:38:01,194 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA8ADFC0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:38:26,611 - ERROR - Erreur envoi serveur: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000175CA763D30>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+2025-03-26 18:40:12,028 - INFO - Démarrage du client de monitoring réseau
+2025-03-26 18:40:15,421 - INFO - Prédiction reçue: None
+2025-03-26 18:40:38,958 - INFO - Prédiction reçue: None
+2025-03-26 18:41:02,431 - INFO - Prédiction reçue: None
+2025-03-26 18:41:25,936 - INFO - Prédiction reçue: None
+2025-03-26 18:41:49,382 - INFO - Prédiction reçue: None
+2025-03-26 18:42:12,879 - INFO - Prédiction reçue: None
+2025-03-26 18:42:36,216 - INFO - Prédiction reçue: None
+2025-03-26 18:42:59,768 - INFO - Prédiction reçue: None
+2025-03-26 18:43:23,212 - INFO - Prédiction reçue: None
+2025-03-26 18:43:46,637 - INFO - Prédiction reçue: None
+2025-03-26 18:44:10,014 - INFO - Prédiction reçue: None
+2025-03-26 18:44:33,402 - INFO - Prédiction reçue: None
+2025-03-26 18:44:56,779 - INFO - Prédiction reçue: None
+2025-03-26 18:45:20,304 - INFO - Prédiction reçue: None
+2025-03-26 18:45:44,085 - INFO - Prédiction reçue: None
+2025-03-26 18:46:07,652 - INFO - Prédiction reçue: None
+2025-03-26 18:46:31,182 - INFO - Prédiction reçue: None
+2025-03-26 18:46:54,593 - INFO - Prédiction reçue: None
+2025-03-26 18:47:18,047 - INFO - Prédiction reçue: None
+2025-03-26 18:47:41,455 - INFO - Prédiction reçue: None
+2025-03-26 18:48:04,997 - INFO - Prédiction reçue: None
+2025-03-26 18:48:28,359 - INFO - Prédiction reçue: None
+2025-03-26 18:48:51,713 - INFO - Prédiction reçue: None

@@ -1,0 +1,425 @@
+id,timestamp,log_type,event_id,source,level,message
+706,2025-03-17 22:54:05,System,1073748864,Service Control Manager,Information,Service de transfert intelligent en arrière-plan Démarrage automatique Démarrage à la demande BITS
+707,2025-03-17 22:54:05,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+708,2025-03-17 22:54:05,Security,5379,Microsoft-Windows-Security-Auditing,Information,S-1-5-21-3792222157-3078115439-2246167732-1001 FANNY IR-FIRMIN 0x67bc0 MicrosoftAccount:user=02ggpklcqlpq 0 0 %%8100 3221226021 2025-03-17T21:45:54.1459893Z 12076
+709,2025-03-17 22:54:27,System,1073748864,Service Control Manager,Information,Service de transfert intelligent en arrière-plan Démarrage automatique Démarrage à la demande BITS
+710,2025-03-17 22:54:27,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+711,2025-03-17 22:54:27,Security,5379,Microsoft-Windows-Security-Auditing,Information,S-1-5-21-3792222157-3078115439-2246167732-1001 FANNY IR-FIRMIN 0x67bc0 MicrosoftAccount:user=02ggpklcqlpq 0 0 %%8100 3221226021 2025-03-17T21:45:54.1459893Z 12076
+712,2025-03-17 22:54:50,System,1073748864,Service Control Manager,Information,Service de transfert intelligent en arrière-plan Démarrage automatique Démarrage à la demande BITS
+713,2025-03-17 22:54:50,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+714,2025-03-17 22:54:50,Security,5379,Microsoft-Windows-Security-Auditing,Information,S-1-5-21-3792222157-3078115439-2246167732-1001 FANNY IR-FIRMIN 0x67bc0 MicrosoftAccount:user=02ggpklcqlpq 0 0 %%8100 3221226021 2025-03-17T21:45:54.1459893Z 12076
+715,2025-03-17 22:55:12,System,1073748864,Service Control Manager,Information,Service de transfert intelligent en arrière-plan Démarrage automatique Démarrage à la demande BITS
+716,2025-03-17 22:55:12,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+717,2025-03-17 22:55:12,Security,5379,Microsoft-Windows-Security-Auditing,Information,S-1-5-21-3792222157-3078115439-2246167732-1001 FANNY IR-FIRMIN 0x67bc0 MicrosoftAccount:user=02ggpklcqlpq 0 0 %%8100 3221226021 2025-03-17T21:45:54.1459893Z 12076
+718,2025-03-17 22:55:34,System,1073748864,Service Control Manager,Information,Service de transfert intelligent en arrière-plan Démarrage automatique Démarrage à la demande BITS
+719,2025-03-17 22:55:34,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+720,2025-03-17 22:55:34,Security,5379,Microsoft-Windows-Security-Auditing,Information,S-1-5-21-3792222157-3078115439-2246167732-1001 FANNY IR-FIRMIN 0x67bc0 MicrosoftAccount:user=02ggpklcqlpq 0 0 %%8100 3221226021 2025-03-17T21:45:54.1459893Z 12076
+721,2025-03-18 18:21:42,System,134,Microsoft-Windows-Time-Service,Warning,"Hôte inconnu. (0x80072AF9) 15 time.windows.com,0x9"
+722,2025-03-18 18:21:42,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+723,2025-03-18 18:21:42,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+724,2025-03-18 18:22:05,System,134,Microsoft-Windows-Time-Service,Warning,"Hôte inconnu. (0x80072AF9) 15 time.windows.com,0x9"
+725,2025-03-18 18:22:05,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+726,2025-03-18 18:22:05,Security,5379,Microsoft-Windows-Security-Auditing,Information,S-1-5-18 IR-FIRMIN$ WORKGROUP 0x3e7 MicrosoftAccount:user=02nahhievoqx 0 0 %%8100 3221226021 2025-03-18T17:21:53.8048483Z 3448
+727,2025-03-18 18:33:22,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+728,2025-03-18 18:33:22,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+729,2025-03-18 18:33:22,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+730,2025-03-18 18:33:26,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+731,2025-03-18 18:33:26,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+732,2025-03-18 18:33:26,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+733,2025-03-18 18:33:30,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+734,2025-03-18 18:33:30,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+735,2025-03-18 18:33:30,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+736,2025-03-18 18:33:34,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+737,2025-03-18 18:33:34,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+738,2025-03-18 18:33:34,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+739,2025-03-18 18:33:39,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+740,2025-03-18 18:33:39,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+741,2025-03-18 18:33:39,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+742,2025-03-18 18:33:43,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+743,2025-03-18 18:33:43,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+744,2025-03-18 18:33:43,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+745,2025-03-18 18:33:47,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+746,2025-03-18 18:33:47,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+747,2025-03-18 18:33:47,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+748,2025-03-18 18:33:51,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+749,2025-03-18 18:33:51,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+750,2025-03-18 18:33:51,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+751,2025-03-18 18:33:55,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+752,2025-03-18 18:33:55,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+753,2025-03-18 18:33:55,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+754,2025-03-18 18:33:59,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+755,2025-03-18 18:33:59,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+756,2025-03-18 18:33:59,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+757,2025-03-18 18:34:04,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+758,2025-03-18 18:34:04,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+759,2025-03-18 18:34:04,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+760,2025-03-18 18:34:08,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+761,2025-03-18 18:34:08,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+762,2025-03-18 18:34:08,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+763,2025-03-18 18:34:12,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+764,2025-03-18 18:34:12,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+765,2025-03-18 18:34:12,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+766,2025-03-18 18:34:16,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+767,2025-03-18 18:34:16,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+768,2025-03-18 18:34:16,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+769,2025-03-18 19:06:39,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+770,2025-03-18 19:06:39,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+771,2025-03-18 19:06:39,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+772,2025-03-18 19:06:44,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+773,2025-03-18 19:06:44,Application,455,ESENT,Error,"svchost 1392,R,98 TILEREPOSITORYS-1-5-18:  C:\WINDOWS\system32\config\systemprofile\AppData\Local\TileDataLayer\Database\EDB.log -1023 (0xfffffc01)"
+774,2025-03-18 19:06:44,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+775,2025-03-18 19:06:48,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+776,2025-03-18 19:06:48,Application,455,ESENT,Error,"svchost 1392,R,98 TILEREPOSITORYS-1-5-18:  C:\WINDOWS\system32\config\systemprofile\AppData\Local\TileDataLayer\Database\EDB.log -1023 (0xfffffc01)"
+777,2025-03-18 19:06:48,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+778,2025-03-18 19:06:53,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+779,2025-03-18 19:06:53,Application,455,ESENT,Error,"svchost 1392,R,98 TILEREPOSITORYS-1-5-18:  C:\WINDOWS\system32\config\systemprofile\AppData\Local\TileDataLayer\Database\EDB.log -1023 (0xfffffc01)"
+780,2025-03-18 19:06:53,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+781,2025-03-18 19:06:57,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+782,2025-03-18 19:06:57,Application,455,ESENT,Error,"svchost 1392,R,98 TILEREPOSITORYS-1-5-18:  C:\WINDOWS\system32\config\systemprofile\AppData\Local\TileDataLayer\Database\EDB.log -1023 (0xfffffc01)"
+783,2025-03-18 19:06:57,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+784,2025-03-18 19:07:01,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+785,2025-03-18 19:07:01,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+786,2025-03-18 19:07:02,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+787,2025-03-18 19:07:06,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+788,2025-03-18 19:07:06,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+789,2025-03-18 19:07:06,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+790,2025-03-18 19:07:10,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+791,2025-03-18 19:07:10,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+792,2025-03-18 19:07:10,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+793,2025-03-18 19:07:15,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+794,2025-03-18 19:07:15,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+795,2025-03-18 19:07:15,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+796,2025-03-18 19:07:19,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+797,2025-03-18 19:07:19,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+798,2025-03-18 19:07:19,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+799,2025-03-18 19:07:24,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+800,2025-03-18 19:07:24,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+801,2025-03-18 19:07:24,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+802,2025-03-18 19:07:28,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+803,2025-03-18 19:07:28,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+804,2025-03-18 19:07:28,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+805,2025-03-18 19:07:32,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+806,2025-03-18 19:07:32,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+807,2025-03-18 19:07:32,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+808,2025-03-18 19:07:36,System,10010,DCOM,Error,{94269C4E-071A-4116-90E6-52E557067E4E}
+809,2025-03-18 19:07:36,Application,537,ESENT,Error,"svchost 4832,D,22 SRUJet:  -351 26 1967 7293 C:\WINDOWS\system32\SRU\SRUDB.dat 0x1280a"
+810,2025-03-18 19:07:36,Security,4672,Microsoft-Windows-Security-Auditing,Information,"S-1-5-18 Système AUTORITE NT 0x3e7 SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"

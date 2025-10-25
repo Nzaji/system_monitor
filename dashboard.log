@@ -1,0 +1,196 @@
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 10:59:06,499 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+Polling connection accepted with {'sid': 'DiZJjSiCUFaMYg7fAAAA', 'upgrades': ['websocket'], 'pingTimeout': 20000, 'pingInterval': 25000, 'maxPayload': 1000000}
+2025-03-26 10:59:08,551 - INFO - Polling connection accepted with {'sid': 'DiZJjSiCUFaMYg7fAAAA', 'upgrades': ['websocket'], 'pingTimeout': 20000, 'pingInterval': 25000, 'maxPayload': 1000000}
+Engine.IO connection established
+2025-03-26 10:59:08,551 - INFO - Engine.IO connection established
+Sending packet MESSAGE data 0{}
+2025-03-26 10:59:08,551 - INFO - Sending packet MESSAGE data 0{}
+Attempting WebSocket upgrade to ws://localhost:5000/socket.io/?transport=websocket&EIO=4
+2025-03-26 10:59:08,551 - INFO - Attempting WebSocket upgrade to ws://localhost:5000/socket.io/?transport=websocket&EIO=4
+WebSocket upgrade was successful
+2025-03-26 10:59:10,594 - INFO - WebSocket upgrade was successful
+Received packet NOOP data 
+2025-03-26 10:59:10,610 - INFO - Received packet NOOP data 
+Received packet MESSAGE data 2["connection_response",{"status":"connected"}]
+2025-03-26 10:59:10,610 - INFO - Received packet MESSAGE data 2["connection_response",{"status":"connected"}]
+Received event "connection_response" [/]
+Received packet MESSAGE data 0{"sid":"sb6ZH2QIQD-3i7feAAAB"}
+2025-03-26 10:59:10,610 - INFO - Received packet MESSAGE data 0{"sid":"sb6ZH2QIQD-3i7feAAAB"}
+2025-03-26 10:59:10,610 - INFO - Received event "connection_response" [/]
+Namespace / is connected
+2025-03-26 10:59:10,626 - INFO - Namespace / is connected
+2025-03-26 10:59:10,626 - INFO - Connecté au serveur Socket.IO
+Dash is running on http://0.0.0.0:8050/
+
+2025-03-26 10:59:11,027 - INFO - Dash is running on http://0.0.0.0:8050/
+
+ * Serving Flask app 'Tabdebord'
+ * Debug mode: on
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 10:59:20,111 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+Polling connection accepted with {'sid': 'OrdzSq0WY83zJ2Z6AAAC', 'upgrades': ['websocket'], 'pingTimeout': 20000, 'pingInterval': 25000, 'maxPayload': 1000000}
+2025-03-26 10:59:22,189 - INFO - Polling connection accepted with {'sid': 'OrdzSq0WY83zJ2Z6AAAC', 'upgrades': ['websocket'], 'pingTimeout': 20000, 'pingInterval': 25000, 'maxPayload': 1000000}
+Engine.IO connection established
+2025-03-26 10:59:22,189 - INFO - Engine.IO connection established
+Sending packet MESSAGE data 0{}
+2025-03-26 10:59:22,189 - INFO - Sending packet MESSAGE data 0{}
+Attempting WebSocket upgrade to ws://localhost:5000/socket.io/?transport=websocket&EIO=4
+2025-03-26 10:59:22,189 - INFO - Attempting WebSocket upgrade to ws://localhost:5000/socket.io/?transport=websocket&EIO=4
+WebSocket upgrade was successful
+2025-03-26 10:59:24,213 - INFO - WebSocket upgrade was successful
+Received packet NOOP data 
+2025-03-26 10:59:24,229 - INFO - Received packet NOOP data 
+Received packet MESSAGE data 2["connection_response",{"status":"connected"}]
+2025-03-26 10:59:24,229 - INFO - Received packet MESSAGE data 2["connection_response",{"status":"connected"}]
+Received event "connection_response" [/]
+2025-03-26 10:59:24,229 - INFO - Received event "connection_response" [/]
+Received packet MESSAGE data 0{"sid":"kZGvRz8J9Ip1wAOjAAAD"}
+2025-03-26 10:59:24,229 - INFO - Received packet MESSAGE data 0{"sid":"kZGvRz8J9Ip1wAOjAAAD"}
+Namespace / is connected
+2025-03-26 10:59:24,229 - INFO - Namespace / is connected
+2025-03-26 10:59:24,229 - INFO - Connecté au serveur Socket.IO
+Received packet PING data 
+2025-03-26 10:59:33,553 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 10:59:33,553 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 10:59:47,199 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 10:59:47,199 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 10:59:58,555 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 10:59:58,555 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 11:00:12,203 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 11:00:12,203 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 11:00:23,568 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 11:00:23,568 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 11:00:37,215 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 11:00:37,215 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 11:00:48,565 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 11:00:48,565 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 11:01:02,223 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 11:01:02,223 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 11:01:13,572 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 11:01:13,572 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 11:01:27,223 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 11:01:27,223 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 11:01:38,589 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 11:01:38,589 - INFO - Sending packet PONG data 
+Received packet PING data 
+2025-03-26 11:01:52,236 - INFO - Received packet PING data 
+Sending packet PONG data 
+2025-03-26 11:01:52,236 - INFO - Sending packet PONG data 
+Unexpected error receiving packet: "[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant", aborting
+2025-03-26 11:01:56,938 - INFO - Unexpected error receiving packet: "[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant", aborting
+Waiting for write loop task to end
+2025-03-26 11:01:56,938 - INFO - Waiting for write loop task to end
+Exiting write loop task
+2025-03-26 11:01:56,938 - INFO - Exiting write loop task
+Engine.IO connection dropped
+2025-03-26 11:01:56,938 - INFO - Engine.IO connection dropped
+2025-03-26 11:01:56,938 - WARNING - Déconnecté du serveur Socket.IO
+Unexpected error receiving packet: "[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant", aborting
+2025-03-26 11:01:56,938 - INFO - Unexpected error receiving packet: "[WinError 10054] Une connexion existante a dû être fermée par l’hôte distant", aborting
+Waiting for write loop task to end
+2025-03-26 11:01:56,938 - INFO - Waiting for write loop task to end
+Exiting write loop task
+2025-03-26 11:01:56,938 - INFO - Exiting write loop task
+Engine.IO connection dropped
+2025-03-26 11:01:56,938 - INFO - Engine.IO connection dropped
+2025-03-26 11:01:56,938 - WARNING - Déconnecté du serveur Socket.IO
+Connection failed, new attempt in 4.89 seconds
+Exiting read loop task
+2025-03-26 11:01:56,954 - INFO - Exiting read loop task
+2025-03-26 11:01:56,954 - INFO - Connection failed, new attempt in 4.89 seconds
+Connection failed, new attempt in 5.23 seconds
+Exiting read loop task
+2025-03-26 11:01:56,954 - INFO - Exiting read loop task
+2025-03-26 11:01:56,954 - INFO - Connection failed, new attempt in 5.23 seconds
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:01,856 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:02,210 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983321.8565435 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983321.8565435 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C432B60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:05,938 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983321.8565435 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983321.8565435 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C432B60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:05,938 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983321.8565435 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C432B60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Connection failed, new attempt in 4.68 seconds
+2025-03-26 11:02:05,938 - INFO - Connection failed, new attempt in 4.68 seconds
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983322.2107887 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983322.2107887 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014516112B60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:06,323 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983322.2107887 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983322.2107887 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014516112B60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:06,323 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983322.2107887 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014516112B60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Connection failed, new attempt in 4.71 seconds
+2025-03-26 11:02:06,323 - INFO - Connection failed, new attempt in 4.71 seconds
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:10,635 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:11,045 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983330.6350074 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983330.6350074 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C432B60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:14,757 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983330.6350074 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983330.6350074 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C432B60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:14,757 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983330.6350074 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C432B60>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Connection failed, new attempt in 4.77 seconds
+2025-03-26 11:02:14,757 - INFO - Connection failed, new attempt in 4.77 seconds
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983331.0451317 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983331.0451317 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001451631A5C0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:15,142 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983331.0451317 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983331.0451317 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001451631A5C0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:15,142 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983331.0451317 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001451631A5C0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Connection failed, new attempt in 5.07 seconds
+2025-03-26 11:02:15,142 - INFO - Connection failed, new attempt in 5.07 seconds
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:19,533 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:20,220 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983339.533648 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983339.533648 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C55A800>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:23,613 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983339.533648 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983339.533648 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C55A800>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:23,613 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983339.533648 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C55A800>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Connection failed, new attempt in 5.41 seconds
+2025-03-26 11:02:23,613 - INFO - Connection failed, new attempt in 5.41 seconds
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983340.2207706 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983340.2207706 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014516112E30>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:24,320 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983340.2207706 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983340.2207706 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014516112E30>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:24,320 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983340.2207706 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014516112E30>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Connection failed, new attempt in 4.64 seconds
+2025-03-26 11:02:24,320 - INFO - Connection failed, new attempt in 4.64 seconds
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:28,969 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:29,038 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983348.9699607 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983348.9699607 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014516318D00>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:33,023 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983348.9699607 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983348.9699607 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014516318D00>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:33,023 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983348.9699607 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014516318D00>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Connection failed, new attempt in 4.67 seconds
+2025-03-26 11:02:33,023 - INFO - Connection failed, new attempt in 4.67 seconds
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983349.038983 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983349.038983 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C55A9B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:33,101 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983349.038983 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983349.038983 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C55A9B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:33,101 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983349.038983 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C55A9B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Connection failed, new attempt in 4.90 seconds
+2025-03-26 11:02:33,101 - INFO - Connection failed, new attempt in 4.90 seconds
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:37,715 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+2025-03-26 11:02:38,017 - INFO - Attempting polling connection to http://localhost:5000/socket.io/?transport=polling&EIO=4
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983357.7159555 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983357.7159555 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145163188B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:41,803 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983357.7159555 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983357.7159555 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145163188B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:41,803 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983357.7159555 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145163188B0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Maximum reconnection attempts reached, giving up
+2025-03-26 11:02:41,803 - INFO - Maximum reconnection attempts reached, giving up
+HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983358.0170288 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983358.0170288 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C55ADD0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:42,120 - INFO - HTTP GET request to http://localhost:5000/socket.io/?transport=polling&EIO=4&t=1742983358.0170288 failed with error HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983358.0170288 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C55ADD0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')).
+2025-03-26 11:02:42,120 - ERROR - Erreur de connexion: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /socket.io/?transport=polling&EIO=4&t=1742983358.0170288 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001679C55ADD0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée'))
+Maximum reconnection attempts reached, giving up
+2025-03-26 11:02:42,120 - INFO - Maximum reconnection attempts reached, giving up

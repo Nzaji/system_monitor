@@ -1,0 +1,37 @@
+/* Style des recommandations */
+#recommendations-list {
+    max-height: 400px;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+#recommendations-list::-webkit-scrollbar {
+    width: 8px;
+}
+
+#recommendations-list::-webkit-scrollbar-track {
+    background: rgba(255,255,255,0.1);
+}
+
+#recommendations-list::-webkit-scrollbar-thumb {
+    background: #3498db;
+    border-radius: 4px;
+}
+
+#recommendations-list ul li {
+    padding: 10px;
+    margin-bottom: 8px;
+    background: rgba(255,255,255,0.05);
+    border-left: 4px solid;
+    transition: all 0.3s;
+}
+
+#recommendations-list ul li:hover {
+    background: rgba(255,255,255,0.1);
+}
+
+/* Couleurs des bordures */
+.text-danger { border-left-color: #e74c3c !important; }
+.text-warning { border-left-color: #f39c12 !important; }
+.text-success { border-left-color: #2ecc71 !important; }
+.text-info { border-left-color: #3498db !important; }
